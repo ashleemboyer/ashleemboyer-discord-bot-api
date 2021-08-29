@@ -1,0 +1,17 @@
+{
+  "name": "ashleemboyer-discord-bot-api",
+  "version": "0.1.0",
+  "description": "The API that goes with Ashlee M Boyer's personal Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
